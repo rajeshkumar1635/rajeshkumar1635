@@ -31,7 +31,6 @@
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Microsoft SQL Server](https://skillicons.dev/icons?i=mssql)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Oracle](https://skillicons.dev/icons?i=oracle)
