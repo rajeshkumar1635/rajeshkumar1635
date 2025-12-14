@@ -53,6 +53,16 @@
 - **Blazor** – Component-based web UI development using C# instead of JavaScript.
 - **Entity Framework / EF Core** – ORM-based data access with LINQ, migrations, and performance optimization.
 - **Security** – JWT authentication, role-based authorization, OAuth2/OIDC.
+- 
+---
+
+### 📨 Messaging & Event Streaming
+
+![Kafka](https://skillicons.dev/icons?i=kafka)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+
+- **Apache Kafka** – Event-driven architecture, real-time data streaming, high-throughput messaging.
+- **RabbitMQ** – Message broker for reliable asynchronous communication and task-based workflows.
 
 ---
 
