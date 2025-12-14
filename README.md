@@ -41,6 +41,10 @@
 
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![C#](https://skillicons.dev/icons?i=cs)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
 
 - **ASP.NET** – Server-side web application development using the .NET framework.
 - **ASP.NET MVC** – MVC-based web applications with clean separation of concerns.
