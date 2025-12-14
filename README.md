@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**rajeshkumar1635/rajeshkumar1635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Rajesh  
+🚀 Full Stack Developer | Java, .NET & Cloud Engineer | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+#### 👨‍💻 Programming Languages:
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+#### 🌐 Frontend Technologies:
+![Angular](https://skillicons.dev/icons?i=angular)
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+---
+
+#### 🔧 Backend & Databases:
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Oracle](https://skillicons.dev/icons?i=oracle)
+
+---
+
+#### ☁️ Cloud & DevOps:
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+#### 🧠 Architecture & Concepts:
+- Microservices Architecture  
+- Event-Driven Systems (Kafka)  
+- REST & GraphQL APIs  
+- API Gateway & Service Discovery  
+- Circuit Breaker & Resilience Patterns  
+- JWT / OAuth2 / OIDC Security  
+- CI/CD & Cloud-Native Design  
+---
+
+### 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-k11/)  
+📧 **Email:** kynvkrk@gmail.com  
+
+---
+
+💡 *"Building scalable, secure, and cloud-ready applications with Java and .NET."* 🚀
