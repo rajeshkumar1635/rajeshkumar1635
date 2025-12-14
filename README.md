@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## I'm Rajesh  
-🚀 Full Stack Developer | Java, .NET & Cloud Engineer | Problem Solver
+🚀 Full Stack Developer | .NET & Cloud Engineer | Problem Solver
 
 ---
 
@@ -34,6 +34,21 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Oracle](https://skillicons.dev/icons?i=oracle)
+
+---
+
+### 🧩 .NET Frameworks
+
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![C#](https://skillicons.dev/icons?i=cs)
+
+- **ASP.NET** – Server-side web application development using the .NET framework.
+- **ASP.NET MVC** – MVC-based web applications with clean separation of concerns.
+- **ASP.NET Core** – High-performance, cross-platform APIs and web applications.
+- **ASP.NET Web API** – RESTful service development for frontend and mobile clients.
+- **Blazor** – Component-based web UI development using C# instead of JavaScript.
+- **Entity Framework / EF Core** – ORM-based data access with LINQ, migrations, and performance optimization.
+- **Security** – JWT authentication, role-based authorization, OAuth2/OIDC.
 
 ---
 
